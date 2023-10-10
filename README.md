@@ -6,7 +6,7 @@ Abstract Idea: The field of environmental monitoring has become increasingly cri
 
 Understanding of the problem: The problem in IoT-based environmental monitoring  is the lack of real-time data, connectivity in remote areas, data analysis capabilities, and tools for sustainability planning. Addressing these issues is crucial for effective environmental monitoring, decision-making, and regulatory compliance while involving and educating communities.
 
-Problem Definition: The problem at hand revolves around the urgent need to monitor, manage, and mitigate environmental issues such as air and water pollution, deforestation, wildlife conservation, and climate change. Traditional methods of data collection and management are often inadequate, expensive, and inefficient. This leads to delayed responses to environmental crises, hindering sustainability efforts.
+Problem Definition: The problem at hand revolves around the urgent need to monitor, manage, and mitigate environmental issues such as air and water pollution, deforestation, wildlife conservation, and climate change.Traditional methods of data collection and management are often inadequate, expensive, and inefficient. This leads to delayed responses to environmental crises, hindering sustainability efforts.
 
 Design Thinking Approach: To tackle these challenges, a design thinking approach can be adopted. This involves empathizing with stakeholders, defining the problem, ideating solutions, prototyping, and testing. In the context of IoT-based environmental monitoring :
                                  
