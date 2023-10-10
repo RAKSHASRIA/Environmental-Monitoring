@@ -1,6 +1,6 @@
-# Environmental-Management
+# Environmental-Monitoring
 
-IOT- project: Environmental Management
+IOT- project: Environmental Monitoring
 
 Abstract Idea: The field of environmental management has become increasingly critical in the face of escalating climate change and resource depletion. Leveraging the capabilities of the Internet of Things (IoT) offers a promising solution to address environmental challenges effectively. 
 
