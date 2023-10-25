@@ -132,6 +132,7 @@ The Innovation phase is a crucial step in turning our design thinking concept in
 # IOT-PHASE 3
 # Development Part 1
 ## CODE:
+```cpp
 #include <WiFi.h>
 #include <HTTPClient.h>
 #include <DHT.h>
@@ -190,8 +191,9 @@ if (WiFi.status() == WL_CONNECTED) {
     Serial.println("WiFi reconnected!");
   }}
 void sendSensorData() {
-  // The rest of your sendSensorData function remains the same}
- 
+  // The rest of your sendSensorData function remains the same} `````cpp
+
+
 ## OUTPUT:
 
  
