@@ -210,7 +210,7 @@ void sendSensorData() {
 ```
 
 ### OUTPUT:
-![Local Image](images/arduino-setup.png)
+![Local Image](NM.jpg)
 
 ### CODE DESCRIPTION:
 
