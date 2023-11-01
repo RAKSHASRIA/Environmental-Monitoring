@@ -245,6 +245,7 @@ This document provides an in-depth overview of an Internet of Things (IoT) proje
 " In the age of IoT, the ability to gather and visualize real-time data from various environmental sensors has become crucial for a wide range of applications, including smart agriculture, industrial automation, and climate control systems.
  This project aims to create a user-friendly web-based dashboard that allows users to monitor and interact with environmental data collected by IoT devices.
 ### Code:
+```cpp
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -418,9 +419,10 @@ table {
     </script>
 </body>
 </html>
-
+```
 
 ## Output:
+![Local Image](ss2.jpg)
 
 ## Title:
 The HTML document is for an "Environmental Monitoring" dashboard.
