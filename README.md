@@ -239,6 +239,11 @@ This function constructs a URL to the designated server, incorporating the tempe
 - Minimize String Usage: Avoid using the String class, as it can cause memory fragmentation on microcontrollers. Use character arrays (char[]) for data instead.
 - Reduce HTTP Requests: Instead of sending data in every loop iteration, consider sending data at longer intervals or only when there's a significant change in sensor values.
 
+## Historical Temperature graph:
+![Local Image](1696912049670.jpg)
+## Humidity graph:
+![Local Image](1696912454716.jpg)
+
 # Phase 4: Development Part 2
 ## Introduction
 This document provides an in-depth overview of an Internet of Things (IoT) project, specifically an "Environmental Monitoring Dashboard.
