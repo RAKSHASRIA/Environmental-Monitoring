@@ -239,7 +239,7 @@ This function constructs a URL to the designated server, incorporating the tempe
 - Minimize String Usage: Avoid using the String class, as it can cause memory fragmentation on microcontrollers. Use character arrays (char[]) for data instead.
 - Reduce HTTP Requests: Instead of sending data in every loop iteration, consider sending data at longer intervals or only when there's a significant change in sensor values.
 
-# Development Part 2
+# Phase 4: Development Part 2
 ## Introduction
 This document provides an in-depth overview of an Internet of Things (IoT) project, specifically an "Environmental Monitoring Dashboard.
 " In the age of IoT, the ability to gather and visualize real-time data from various environmental sensors has become crucial for a wide range of applications, including smart agriculture, industrial automation, and climate control systems.
@@ -450,25 +450,35 @@ The JavaScript code within the script tag is responsible for fetching data from 
 
 ## A real-time environmental monitoring system offers several benefits to park visitors and promotes outdoor activities in the following ways:
 
-### 1. Safety: Visitors can receive up-to-the-minute information about weather conditions, air quality, and other environmental factors. This information helps them make informed decisions, such as whether it's safe to hike, camp, or engage in other outdoor activities.
+### 1. Safety:
+Visitors can receive up-to-the-minute information about weather conditions, air quality, and other environmental factors. This information helps them make informed decisions, such as whether it's safe to hike, camp, or engage in other outdoor activities.
 
-### 2. Weather Updates: Real-time weather data helps visitors plan their trips better by providing accurate forecasts. This reduces the likelihood of getting caught in severe weather conditions.
+### 2. Weather Updates:
+Real-time weather data helps visitors plan their trips better by providing accurate forecasts. This reduces the likelihood of getting caught in severe weather conditions.
 
-### 3. Air Quality: Monitoring air quality alerts visitors to potential health risks from pollution or wildfires. This information is crucial for those with respiratory issues and can guide them on whether it's safe to be outdoors.
+### 3. Air Quality:
+Monitoring air quality alerts visitors to potential health risks from pollution or wildfires. This information is crucial for those with respiratory issues and can guide them on whether it's safe to be outdoors.
 
-### 4. Wildlife Viewing: Real-time monitoring can provide information on wildlife sightings or migratory patterns, enhancing the chances of observing animals and birds in their natural habitats.
+### 4. Wildlife Viewing:
+Real-time monitoring can provide information on wildlife sightings or migratory patterns, enhancing the chances of observing animals and birds in their natural habitats.
 
-###5. Trail Conditions: Visitors can access real-time updates on trail conditions, closures, and maintenance. This ensures they choose suitable routes for hiking or biking and can avoid areas that may be temporarily unsafe.
+### 5. Trail Conditions:
+Visitors can access real-time updates on trail conditions, closures, and maintenance. This ensures they choose suitable routes for hiking or biking and can avoid areas that may be temporarily unsafe.
 
-###6. Water Quality: For parks with water bodies, the system can monitor water quality, making it safe for activities like swimming and fishing while alerting visitors to any contamination issues.
+### 6. Water Quality:
+For parks with water bodies, the system can monitor water quality, making it safe for activities like swimming and fishing while alerting visitors to any contamination issues.
 
-###7. Crowd Control: Real-time visitor data can be used to manage crowd density, ensuring a more enjoyable experience for everyone by preventing overcrowding and allowing social distancing.
+### 7. Crowd Control:
+Real-time visitor data can be used to manage crowd density, ensuring a more enjoyable experience for everyone by preventing overcrowding and allowing social distancing.
 
-###8. Educational Opportunities: The system can offer educational materials and information about the local environment, enhancing visitors' appreciation and understanding of the natural world.
+### 8. Educational Opportunities:
+The system can offer educational materials and information about the local environment, enhancing visitors' appreciation and understanding of the natural world.
 
-###9. Community Engagement: Promotes environmental awareness and encourages the community to participate in conservation efforts.
+### 9. Community Engagement:
+Promotes environmental awareness and encourages the community to participate in conservation efforts.
 
-###10. Enhanced Experience: By providing accurate and timely information, the system helps visitors make the most of their park experience, ultimately encouraging repeat visits and longer stays.
+### 10. Enhanced Experience: 
+By providing accurate and timely information, the system helps visitors make the most of their park experience, ultimately encouraging repeat visits and longer stays.
 
 Overall, a real-time environmental monitoring system fosters a safer and more enjoyable outdoor experience for park visitors while contributing to the conservation and protection of natural resources.
 ##Conclusion:
