@@ -239,12 +239,12 @@ This function constructs a URL to the designated server, incorporating the tempe
 - Minimize String Usage: Avoid using the String class, as it can cause memory fragmentation on microcontrollers. Use character arrays (char[]) for data instead.
 - Reduce HTTP Requests: Instead of sending data in every loop iteration, consider sending data at longer intervals or only when there's a significant change in sensor values.
 
-#Development Part 2
-##Introduction
+# Development Part 2
+## Introduction
 This document provides an in-depth overview of an Internet of Things (IoT) project, specifically an "Environmental Monitoring Dashboard.
 " In the age of IoT, the ability to gather and visualize real-time data from various environmental sensors has become crucial for a wide range of applications, including smart agriculture, industrial automation, and climate control systems.
  This project aims to create a user-friendly web-based dashboard that allows users to monitor and interact with environmental data collected by IoT devices.
-###Code:
+### Code:
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -420,9 +420,9 @@ table {
 </html>
 
 
-##Output:
+## Output:
 
-##Title:
+## Title:
 The HTML document is for an "Environmental Monitoring" dashboard.
 
 Metadata and External Resources:
@@ -431,30 +431,30 @@ External resources, like Font Awesome icons and Google Fonts, are included for e
 
 
 
-##Page Styling:
+## Page Styling:
 The CSS styles define the visual aspects of the page. In IoT, it's crucial to have an appealing and user-friendly interface, especially if the dashboard is used for monitoring IoT device data.
-##Header:
+## Header:
 The header section provides a clear title for the IoT dashboard. This title informs users that the dashboard is for environmental monitoring, which is important for context.
-##Current Data Display:
+## Current Data Display:
 This section is dedicated to displaying real-time data from IoT sensors. In an IoT project, this could represent data like temperature, humidity, or other sensor readings. The use of icons (thermometer and water drop) enhances the user's understanding of the data.
-##Data History:
+## Data History:
 The data history section is where historical data is displayed in a tabular format. This is important in IoT because it allows users to track trends and patterns over time, which can be critical for decision-making or identifying issues.
-##Refresh Data Button:
+## Refresh Data Button:
 The "Refresh Data" button allows users to manually request updated data. In an IoT context, this can be useful for ensuring that users have the most recent information from their IoT devices.
-##JavaScript:
+## JavaScript:
 The JavaScript code within the script tag is responsible for fetching data from a server and updating the page with the latest data. In IoT, this script could interact with IoT devices, gather sensor data, and display it in real-time.
 
 
 
-##A real-time environmental monitoring system offers several benefits to park visitors and promotes outdoor activities in the following ways:
+## A real-time environmental monitoring system offers several benefits to park visitors and promotes outdoor activities in the following ways:
 
-###1. Safety: Visitors can receive up-to-the-minute information about weather conditions, air quality, and other environmental factors. This information helps them make informed decisions, such as whether it's safe to hike, camp, or engage in other outdoor activities.
+### 1. Safety: Visitors can receive up-to-the-minute information about weather conditions, air quality, and other environmental factors. This information helps them make informed decisions, such as whether it's safe to hike, camp, or engage in other outdoor activities.
 
-###2. Weather Updates: Real-time weather data helps visitors plan their trips better by providing accurate forecasts. This reduces the likelihood of getting caught in severe weather conditions.
+### 2. Weather Updates: Real-time weather data helps visitors plan their trips better by providing accurate forecasts. This reduces the likelihood of getting caught in severe weather conditions.
 
-###3. Air Quality: Monitoring air quality alerts visitors to potential health risks from pollution or wildfires. This information is crucial for those with respiratory issues and can guide them on whether it's safe to be outdoors.
+### 3. Air Quality: Monitoring air quality alerts visitors to potential health risks from pollution or wildfires. This information is crucial for those with respiratory issues and can guide them on whether it's safe to be outdoors.
 
-###4. Wildlife Viewing: Real-time monitoring can provide information on wildlife sightings or migratory patterns, enhancing the chances of observing animals and birds in their natural habitats.
+### 4. Wildlife Viewing: Real-time monitoring can provide information on wildlife sightings or migratory patterns, enhancing the chances of observing animals and birds in their natural habitats.
 
 ###5. Trail Conditions: Visitors can access real-time updates on trail conditions, closures, and maintenance. This ensures they choose suitable routes for hiking or biking and can avoid areas that may be temporarily unsafe.
 
