@@ -132,8 +132,7 @@ The Innovation phase is a crucial step in turning our design thinking concept in
 
 
 
-# IOT-PHASE 3
-## Development Part 1
+# IOT-PHASE 3- Development Part 1
 
 ### CODE:
 
